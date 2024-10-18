@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensors-1.0/situation/sar_algo/built-in.a :=  rm -f drivers/misc/mediatek/sensors-1.0/situation/sar_algo/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/sensors-1.0/situation/sar_algo/built-in.a drivers/misc/mediatek/sensors-1.0/situation/sar_algo/saralgo.o drivers/misc/mediatek/sensors-1.0/situation/sar_algo/saralgo_factory.o

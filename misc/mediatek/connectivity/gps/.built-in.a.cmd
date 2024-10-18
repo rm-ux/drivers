@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/gps/built-in.a :=  rm -f drivers/misc/mediatek/connectivity/gps/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/connectivity/gps/built-in.a drivers/misc/mediatek/connectivity/gps/gps_stp/stp_chrdev_gps.o drivers/misc/mediatek/connectivity/gps/gps_stp/fw_log_gps.o

@@ -1,0 +1,1 @@
+cmd_drivers/tee/teei/400/tee/soter/built-in.a :=  rm -f drivers/tee/teei/400/tee/soter/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/tee/teei/400/tee/soter/built-in.a drivers/tee/teei/400/tee/soter/core.o drivers/tee/teei/400/tee/soter/call.o

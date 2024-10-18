@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/typec/switch/built-in.a :=  rm -f drivers/misc/mediatek/typec/switch/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/typec/switch/built-in.a drivers/misc/mediatek/typec/switch/mux_switch.o drivers/misc/mediatek/typec/switch/fusb304.o drivers/misc/mediatek/typec/switch/ptn36241g.o drivers/misc/mediatek/typec/switch/ps5169.o

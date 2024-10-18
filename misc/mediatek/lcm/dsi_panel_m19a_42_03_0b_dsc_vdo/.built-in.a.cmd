@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/dsi_panel_m19a_42_03_0b_dsc_vdo/built-in.a :=  rm -f drivers/misc/mediatek/lcm/dsi_panel_m19a_42_03_0b_dsc_vdo/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/lcm/dsi_panel_m19a_42_03_0b_dsc_vdo/built-in.a drivers/misc/mediatek/lcm/dsi_panel_m19a_42_03_0b_dsc_vdo/dsi_panel_m19a_42_03_0b_dsc_vdo.o

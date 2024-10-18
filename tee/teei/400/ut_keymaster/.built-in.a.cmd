@@ -1,0 +1,1 @@
+cmd_drivers/tee/teei/400/ut_keymaster/built-in.a :=  rm -f drivers/tee/teei/400/ut_keymaster/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/tee/teei/400/ut_keymaster/built-in.a drivers/tee/teei/400/ut_keymaster/ut_keymaster.o

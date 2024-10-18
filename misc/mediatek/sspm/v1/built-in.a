@@ -1,0 +1,25 @@
+!<thin>
+//                                              180       `
+sspm_emi_mpu.o/
+sspm_ipi_timeout_cb.o/
+sspm_helper.o/
+sspm_irq.o/
+sspm_sysfs.o/
+sspm_reservedmem.o/
+sspm_plt.o/
+sspm_mbox.o/
+sspm_ipi_mbox.o/
+sspm_logger_impl.o/
+sspm_timesync.o/
+
+/0              0           0     0     644     6936      `
+/16             0           0     0     644     4080      `
+/39             0           0     0     644     203080    `
+/54             0           0     0     644     3144      `
+/66             0           0     0     644     139384    `
+/80             0           0     0     644     195112    `
+/100            0           0     0     644     180640    `
+/112            0           0     0     644     151720    `
+/125            0           0     0     644     175024    `
+/142            0           0     0     644     178576    `
+/162            0           0     0     644     177848    `

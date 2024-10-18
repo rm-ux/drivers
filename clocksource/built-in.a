@@ -1,0 +1,14 @@
+!<thin>
+//                                              86        `
+timer-of.o/
+timer-probe.o/
+mmio.o/
+timer-mediatek.o/
+arm_arch_timer.o/
+dummy_timer.o/
+/0              0           0     0     644     71208     `
+/12             0           0     0     644     73616     `
+/27             0           0     0     644     11248     `
+/35             0           0     0     644     89384     `
+/53             0           0     0     644     200296    `
+/71             0           0     0     644     20352     `

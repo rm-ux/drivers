@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/hifi4dsp_spi/built-in.a :=  rm -f drivers/misc/mediatek/hifi4dsp_spi/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/hifi4dsp_spi/built-in.a drivers/misc/mediatek/hifi4dsp_spi/hifi4dsp_spi.o

@@ -1,0 +1,23 @@
+!<thin>
+//                                              282       `
+mt65xx_lcm_list.o/
+lcm_common.o/
+lcm_gpio.o/
+lcm_i2c.o/
+lcm_pmic.o/
+lcm_util.o/
+ocp2131_bias.o/
+dsi_panel_m19a_36_02_0a_dsc_vdo/dsi_panel_m19a_36_02_0a_dsc_vdo.o/
+dsi_panel_m19a_42_03_0b_dsc_vdo/dsi_panel_m19a_42_03_0b_dsc_vdo.o/
+virtual_dsi_vdo_default/virtual_dsi_vdo_default.o/
+
+/0              0           0     0     644     35672     `
+/19             0           0     0     644     936       `
+/33             0           0     0     644     936       `
+/45             0           0     0     644     2768      `
+/56             0           0     0     644     17520     `
+/68             0           0     0     644     936       `
+/80             0           0     0     644     147904    `
+/96             0           0     0     644     77016     `
+/163            0           0     0     644     66096     `
+/230            0           0     0     644     39608     `

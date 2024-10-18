@@ -1,0 +1,1 @@
+cmd_drivers/misc/mi-memory/built-in.a :=  rm -f drivers/misc/mi-memory/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mi-memory/built-in.a drivers/misc/mi-memory/mi_memory.o drivers/misc/mi-memory/mmc_hr_ops.o drivers/misc/mi-memory/mmc_sysfs.o drivers/misc/mi-memory/mv.o drivers/misc/mi-memory/memory_type.o

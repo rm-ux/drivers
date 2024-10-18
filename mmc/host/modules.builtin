@@ -1,0 +1,2 @@
+kernel/drivers/mmc/host/mtk-sd.ko
+kernel/drivers/mmc/host/cqhci-core.ko

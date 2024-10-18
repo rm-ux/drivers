@@ -1,0 +1,1 @@
+cmd_drivers/nfc/pn557/built-in.a :=  rm -f drivers/nfc/pn557/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/nfc/pn557/built-in.a drivers/nfc/pn557/nfc.o drivers/nfc/pn557/sn1xx.o drivers/nfc/pn557/pn8xt.o

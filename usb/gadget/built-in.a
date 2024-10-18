@@ -1,0 +1,52 @@
+!<thin>
+//                                              428       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+meta.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/u_serial.o/
+function/f_serial.o/
+function/u_ether.o/
+function/f_rndis.o/
+function/rndis.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_midi.o/
+function/f_hid.o/
+function/f_accessory.o/
+function/f_audio_source.o/
+function/f_mtp.o/
+function/f_ptp.o/
+/0              0           0     0     644     8008      `
+/13             0           0     0     644     158440    `
+/23             0           0     0     644     141928    `
+/37             0           0     0     644     277176    `
+/50             0           0     0     644     154144    `
+/63             0           0     0     644     279600    `
+/75             0           0     0     644     13680     `
+/82             0           0     0     644     245016    `
+/90             0           0     0     644     293080    `
+/102            0           0     0     644     249576    `
+/115            0           0     0     644     180496    `
+/133            0           0     0     644     233920    `
+/154            0           0     0     644     160216    `
+/175            0           0     0     644     397584    `
+/195            0           0     0     644     316032    `
+/215            0           0     0     644     337480    `
+/233            0           0     0     644     364672    `
+/260            0           0     0     644     221712    `
+/287            0           0     0     644     360368    `
+/304            0           0     0     644     218696    `
+/323            0           0     0     644     213568    `
+/341            0           0     0     644     269888    `
+/365            0           0     0     644     210304    `
+/392            0           0     0     644     334720    `
+/410            0           0     0     644     142864    `

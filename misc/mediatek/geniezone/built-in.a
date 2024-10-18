@@ -1,0 +1,32 @@
+!<thin>
+//                                              326       `
+gz_main.o/
+mtee_ut/gz_ut.o/
+mtee_ut/gz_chmem_ut.o/
+mtee_ut/gz_shmem_ut.o/
+mtee_ut/gz_vreg_ut.o/
+mtee-kree/tz_mmap.o/
+mtee-kree/tz_system.o/
+mtee-kree/kree_mem.o/
+gz-trusty/trusty.o/
+gz-trusty/smcnr-table.o/
+gz-trusty/trusty-irq.o/
+gz-trusty/trusty-virtio.o/
+gz-trusty/trusty-mem.o/
+gz-trusty/trusty-ipc.o/
+gz-trusty/gz-log.o/
+/0              0           0     0     644     210272    `
+/11             0           0     0     644     26616     `
+/28             0           0     0     644     39352     `
+/51             0           0     0     644     41952     `
+/74             0           0     0     644     7648      `
+/96             0           0     0     644     111952    `
+/117            0           0     0     644     227928    `
+/140            0           0     0     644     83880     `
+/162            0           0     0     644     225056    `
+/182            0           0     0     644     132688    `
+/207            0           0     0     644     200224    `
+/231            0           0     0     644     221808    `
+/258            0           0     0     644     123168    `
+/282            0           0     0     644     312664    `
+/306            0           0     0     644     183008    `

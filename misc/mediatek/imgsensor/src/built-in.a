@@ -1,0 +1,41 @@
+!<thin>
+//                                              806       `
+common/v1/imgsensor.o/
+common/v1/imgsensor_hw.o/
+common/v1/imgsensor_i2c.o/
+common/v1/imgsensor_legacy.o/
+common/v1/imgsensor_proc.o/
+common/v1/imgsensor_sensor_list.o/
+common/v1/s5kjns_sunny_mipi_raw/s5kjns_sunny_mipi_raw.o/
+common/v1/ov50d40_truly_mipi_raw/ov50d40_truly_mipi_raw.o/
+common/v1/ov8856_sunny_mipi_raw/ov8856sunnymipiraw_Sensor.o/
+common/v1/ov8856_ofilm_mipi_raw/ov8856ofilmmipiraw_Sensor.o/
+common/v1/imx355_sunny_mipi_raw/imx355_sunny_mipi_raw.o/
+common/v1/sc820cs_truly_mipi_raw/sc820cs_truly_mipi_raw.o/
+common/v1/sc202cs_sunny_mipi_raw/sc202cs_sunny_mipi_raw.o/
+common/v1/ov02b10_truly_mipi_raw/ov02b10_truly_mipi_raw.o/
+mt6768/imgsensor_clk.o/
+mt6768/camera_hw/regulator/regulator.o/
+mt6768/camera_hw/gpio/gpio.o/
+mt6768/camera_hw/mclk/mclk.o/
+mt6768/camera_hw/imgsensor_cfg_table.o/
+
+/0              0           0     0     644     538360    `
+/23             0           0     0     644     190560    `
+/49             0           0     0     644     157600    `
+/76             0           0     0     644     144920    `
+/106            0           0     0     644     216816    `
+/134            0           0     0     644     38120     `
+/169            0           0     0     644     150752    `
+/226            0           0     0     644     151720    `
+/285            0           0     0     644     100056    `
+/346            0           0     0     644     100080    `
+/407            0           0     0     644     156888    `
+/464            0           0     0     644     138952    `
+/523            0           0     0     644     152072    `
+/582            0           0     0     644     213624    `
+/641            0           0     0     644     142896    `
+/665            0           0     0     644     177288    `
+/705            0           0     0     644     157064    `
+/735            0           0     0     644     161248    `
+/765            0           0     0     644     12664     `

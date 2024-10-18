@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/virtual_dsi_vdo_default/built-in.a :=  rm -f drivers/misc/mediatek/lcm/virtual_dsi_vdo_default/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/lcm/virtual_dsi_vdo_default/built-in.a drivers/misc/mediatek/lcm/virtual_dsi_vdo_default/virtual_dsi_vdo_default.o

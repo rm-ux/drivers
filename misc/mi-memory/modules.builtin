@@ -1,0 +1,3 @@
+kernel/drivers/misc/mi-memory/mi_memory.ko
+kernel/drivers/misc/mi-memory/mmc_hr_ops.ko
+kernel/drivers/misc/mi-memory/mmc_sysfs.ko

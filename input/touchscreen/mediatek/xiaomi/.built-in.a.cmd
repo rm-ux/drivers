@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/mediatek/xiaomi/built-in.a :=  rm -f drivers/input/touchscreen/mediatek/xiaomi/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/input/touchscreen/mediatek/xiaomi/built-in.a drivers/input/touchscreen/mediatek/xiaomi/xiaomi_touch.o

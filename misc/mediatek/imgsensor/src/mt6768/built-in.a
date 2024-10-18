@@ -1,0 +1,40 @@
+!<thin>
+//                                              812       `
+../common/v1/imgsensor.o/
+../common/v1/imgsensor_hw.o/
+../common/v1/imgsensor_i2c.o/
+../common/v1/imgsensor_legacy.o/
+../common/v1/imgsensor_proc.o/
+../common/v1/imgsensor_sensor_list.o/
+../common/v1/s5kjns_sunny_mipi_raw/s5kjns_sunny_mipi_raw.o/
+../common/v1/ov50d40_truly_mipi_raw/ov50d40_truly_mipi_raw.o/
+../common/v1/ov8856_sunny_mipi_raw/ov8856sunnymipiraw_Sensor.o/
+../common/v1/ov8856_ofilm_mipi_raw/ov8856ofilmmipiraw_Sensor.o/
+../common/v1/imx355_sunny_mipi_raw/imx355_sunny_mipi_raw.o/
+../common/v1/sc820cs_truly_mipi_raw/sc820cs_truly_mipi_raw.o/
+../common/v1/sc202cs_sunny_mipi_raw/sc202cs_sunny_mipi_raw.o/
+../common/v1/ov02b10_truly_mipi_raw/ov02b10_truly_mipi_raw.o/
+imgsensor_clk.o/
+camera_hw/regulator/regulator.o/
+camera_hw/gpio/gpio.o/
+camera_hw/mclk/mclk.o/
+camera_hw/imgsensor_cfg_table.o/
+/0              0           0     0     644     538360    `
+/26             0           0     0     644     190560    `
+/55             0           0     0     644     157600    `
+/85             0           0     0     644     144920    `
+/118            0           0     0     644     216816    `
+/149            0           0     0     644     38120     `
+/187            0           0     0     644     150752    `
+/247            0           0     0     644     151720    `
+/309            0           0     0     644     100056    `
+/373            0           0     0     644     100080    `
+/437            0           0     0     644     156888    `
+/497            0           0     0     644     138952    `
+/559            0           0     0     644     152072    `
+/621            0           0     0     644     213624    `
+/683            0           0     0     644     142896    `
+/700            0           0     0     644     177288    `
+/733            0           0     0     644     157064    `
+/756            0           0     0     644     161248    `
+/779            0           0     0     644     12664     `

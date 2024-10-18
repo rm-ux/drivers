@@ -1,0 +1,25 @@
+!<thin>
+//                                              184       `
+core/fb_cmdline.o/
+core/fb_notify.o/
+core/fbmem.o/
+core/fbmon.o/
+core/fbcmap.o/
+core/fbsysfs.o/
+core/modedb.o/
+core/fbcvt.o/
+core/cfbfillrect.o/
+core/cfbcopyarea.o/
+core/cfbimgblt.o/
+
+/0              0           0     0     644     11824     `
+/19             0           0     0     644     131288    `
+/37             0           0     0     644     323944    `
+/51             0           0     0     644     191376    `
+/65             0           0     0     644     176840    `
+/80             0           0     0     644     183808    `
+/96             0           0     0     644     192008    `
+/111            0           0     0     644     20136     `
+/125            0           0     0     644     161024    `
+/145            0           0     0     644     163200    `
+/165            0           0     0     644     152872    `

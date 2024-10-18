@@ -1,0 +1,1 @@
+cmd_drivers/tee/teei/400/tz_vfs/built-in.a :=  rm -f drivers/tee/teei/400/tz_vfs/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/tee/teei/400/tz_vfs/built-in.a drivers/tee/teei/400/tz_vfs/vfsFun.o drivers/tee/teei/400/tz_vfs/fp_vendor.o

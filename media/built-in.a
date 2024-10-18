@@ -1,0 +1,91 @@
+!<thin>
+//                                              1406      `
+media-device.o/
+media-devnode.o/
+media-entity.o/
+media-request.o/
+v4l2-core/v4l2-dev.o/
+v4l2-core/v4l2-ioctl.o/
+v4l2-core/v4l2-device.o/
+v4l2-core/v4l2-fh.o/
+v4l2-core/v4l2-event.o/
+v4l2-core/v4l2-ctrls.o/
+v4l2-core/v4l2-subdev.o/
+v4l2-core/v4l2-clk.o/
+v4l2-core/v4l2-async.o/
+v4l2-core/v4l2-compat-ioctl32.o/
+v4l2-core/v4l2-trace.o/
+v4l2-core/v4l2-mc.o/
+v4l2-core/v4l2-common.o/
+v4l2-core/v4l2-dv-timings.o/
+v4l2-core/v4l2-mem2mem.o/
+common/videobuf2/videobuf2-core.o/
+common/videobuf2/vb2-trace.o/
+common/videobuf2/videobuf2-v4l2.o/
+common/videobuf2/videobuf2-memops.o/
+common/videobuf2/videobuf2-dma-contig.o/
+platform/mtk-vcu/mtk_vcu.o/
+platform/mtk-vcu/mtk_vcodec_mem.o/
+platform/mtk-vcodec/mtk_vcodec_dec_drv.o/
+platform/mtk-vcodec/vdec_drv_if.o/
+platform/mtk-vcodec/mtk_vcodec_dec.o/
+platform/mtk-vcodec/mt6768/mtk_vcodec_dec_pm.o/
+platform/mtk-vcodec/vdec/vdec_common_if.o/
+platform/mtk-vcodec/vdec/vdec_log_if.o/
+platform/mtk-vcodec/vdec_vcu_if.o/
+platform/mtk-vcodec/mtk_vcodec_enc.o/
+platform/mtk-vcodec/mtk_vcodec_enc_drv.o/
+platform/mtk-vcodec/mt6768/mtk_vcodec_enc_pm.o/
+platform/mtk-vcodec/venc_drv_if.o/
+platform/mtk-vcodec/venc/venc_common_if.o/
+platform/mtk-vcodec/venc/venc_log_if.o/
+platform/mtk-vcodec/venc_vcu_if.o/
+platform/mtk-vcodec/mt6768/mtk_vcodec_intr.o/
+platform/mtk-vcodec/mtk_vcodec_util.o/
+platform/mtk-vcodec/mt6768/vcodec_dvfs.o/
+platform/mtk-vcodec/mt6768/vcodec_bw.o/
+
+/0              0           0     0     644     214168    `
+/16             0           0     0     644     149496    `
+/33             0           0     0     644     219552    `
+/49             0           0     0     644     163392    `
+/66             0           0     0     644     275984    `
+/88             0           0     0     644     414264    `
+/112            0           0     0     644     196800    `
+/137            0           0     0     644     176776    `
+/158            0           0     0     644     158888    `
+/182            0           0     0     644     457200    `
+/206            0           0     0     644     207656    `
+/231            0           0     0     644     156072    `
+/253            0           0     0     644     188952    `
+/277            0           0     0     644     800136    `
+/310            0           0     0     644     258352    `
+/334            0           0     0     644     179320    `
+/355            0           0     0     644     206240    `
+/380            0           0     0     644     74048     `
+/409            0           0     0     644     274752    `
+/435            0           0     0     644     295968    `
+/470            0           0     0     644     209920    `
+/500            0           0     0     644     253776    `
+/535            0           0     0     644     134136    `
+/572            0           0     0     644     178464    `
+/613            0           0     0     644     487096    `
+/641            0           0     0     644     221656    `
+/676            0           0     0     644     299536    `
+/718            0           0     0     644     230176    `
+/753            0           0     0     644     371192    `
+/791            0           0     0     644     243480    `
+/839            0           0     0     644     251536    `
+/882            0           0     0     644     211520    `
+/922            0           0     0     644     266984    `
+/957            0           0     0     644     387040    `
+/995            0           0     0     644     297224    `
+/1037           0           0     0     644     235184    `
+/1085           0           0     0     644     235400    `
+/1120           0           0     0     644     244584    `
+/1163           0           0     0     644     213848    `
+/1203           0           0     0     644     251384    `
+/1238           0           0     0     644     233728    `
+/1284           0           0     0     644     265320    `
+/1323           0           0     0     644     24664     `
+/1365           0           0     0     644     7608      `

@@ -1,0 +1,1 @@
+cmd_drivers/tee/teei/400/tz_dcih/built-in.a :=  rm -f drivers/tee/teei/400/tz_dcih/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/tee/teei/400/tz_dcih/built-in.a drivers/tee/teei/400/tz_dcih/tz_dcih.o drivers/tee/teei/400/tz_dcih/tz_dcih_test.o

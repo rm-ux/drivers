@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cmdq/bridge/built-in.a :=  rm -f drivers/misc/mediatek/cmdq/bridge/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/misc/mediatek/cmdq/bridge/built-in.a drivers/misc/mediatek/cmdq/bridge/cmdq-bdg-mailbox.o drivers/misc/mediatek/cmdq/bridge/cmdq-bdg-test.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/fingerprint/goodix/built-in.a :=  rm -f drivers/input/fingerprint/goodix/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/input/fingerprint/goodix/built-in.a drivers/input/fingerprint/goodix/gf_spi_tee.o drivers/input/fingerprint/goodix/gf_spi_factory.o

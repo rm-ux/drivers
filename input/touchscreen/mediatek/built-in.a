@@ -1,0 +1,52 @@
+!<thin>
+//                                              780       `
+mtk_tpd.o/
+tpd_button.o/
+tpd_calibrate.o/
+tpd_debug.o/
+tpd_default.o/
+tpd_misc.o/
+tpd_setting.o/
+tpd_notify.o/
+focaltech_FT8720/focaltech_core.o/
+focaltech_FT8720/focaltech_ex_fun.o/
+focaltech_FT8720/focaltech_ex_mode.o/
+focaltech_FT8720/focaltech_gesture.o/
+focaltech_FT8720/focaltech_esdcheck.o/
+focaltech_FT8720/focaltech_point_report_check.o/
+focaltech_FT8720/focaltech_proximity.o/
+focaltech_FT8720/focaltech_test/focaltech_test.o/
+focaltech_FT8720/focaltech_test/focaltech_test_ini.o/
+focaltech_FT8720/focaltech_test/supported_ic/focaltech_test_ft8720.o/
+focaltech_FT8720/focaltech_flash.o/
+focaltech_FT8720/focaltech_spi.o/
+NT36672C_SPI/nt36xxx.o/
+NT36672C_SPI/nt36xxx_fw_update.o/
+NT36672C_SPI/nt36xxx_ext_proc.o/
+NT36672C_SPI/nt36xxx_mp_ctrlram.o/
+xiaomi/xiaomi_touch.o/
+/0              0           0     0     644     228664    `
+/11             0           0     0     644     143624    `
+/25             0           0     0     644     6360      `
+/42             0           0     0     644     231696    `
+/55             0           0     0     644     3464      `
+/70             0           0     0     644     113032    `
+/82             0           0     0     644     118976    `
+/97             0           0     0     644     139432    `
+/111            0           0     0     644     316400    `
+/146            0           0     0     644     257480    `
+/183            0           0     0     644     184904    `
+/221            0           0     0     644     192568    `
+/259            0           0     0     644     190680    `
+/298            0           0     0     644     173928    `
+/347            0           0     0     644     179976    `
+/387            0           0     0     644     399232    `
+/437            0           0     0     644     306960    `
+/491            0           0     0     644     210808    `
+/561            0           0     0     644     259040    `
+/597            0           0     0     644     187768    `
+/631            0           0     0     644     387720    `
+/655            0           0     0     644     172968    `
+/689            0           0     0     644     229896    `
+/722            0           0     0     644     484552    `
+/757            0           0     0     644     155952    `

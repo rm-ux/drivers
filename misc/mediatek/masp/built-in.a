@@ -1,0 +1,27 @@
+!<thin>
+//                                              300       `
+asfv2/core/sec_boot_core.o/
+asfv2/core/sec_mod_core.o/
+asfv2/core/sec_osal.o/
+asfv2/core/sec_legacy.o/
+asfv2/module/sec_mod.o/
+asfv2/module/sec_clk.o/
+asfv2/mach/hacc_lib.o/
+asfv2/mach/hacc_export.o/
+asfv2/mach/hacc_hk.o/
+asfv2/mach/hacc_sk.o/
+asfv2/mach/sec_lib.o/
+asfv2/mach/mt6768/security_ao.o/
+
+/0              0           0     0     644     17768     `
+/28             0           0     0     644     111584    `
+/55             0           0     0     644     171960    `
+/78             0           0     0     644     6664      `
+/103            0           0     0     644     170240    `
+/127            0           0     0     644     36304     `
+/151            0           0     0     644     8232      `
+/174            0           0     0     644     14480     `
+/200            0           0     0     644     14128     `
+/222            0           0     0     644     18496     `
+/244            0           0     0     644     4192      `
+/266            0           0     0     644     114088    `

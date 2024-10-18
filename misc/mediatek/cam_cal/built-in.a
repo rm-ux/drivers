@@ -1,0 +1,12 @@
+!<thin>
+//                                              168       `
+src/common/v1/eeprom_driver.o/
+src/common/v1/eeprom_i2c_common_driver.o/
+src/mt6768/eeprom_i2c_custom_driver.o/
+src/mt6768/cam_cal_list.o/
+src/mt6768/eeprom_i2c_dev.o/
+/0              0           0     0     644     264616    `
+/31             0           0     0     644     139264    `
+/73             0           0     0     644     137744    `
+/112            0           0     0     644     69600     `
+/139            0           0     0     644     5600      `

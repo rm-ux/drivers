@@ -1,0 +1,89 @@
+!<thin>
+//                                              1398      `
+sensorHub/nanohub/main.o/
+sensorHub/nanohub/bl.o/
+sensorHub/nanohub/comms.o/
+sensorHub/nanohub/nanohub-mtk.o/
+sensorHub/SCP_nanoHub/SCP_nanoHub.o/
+sensorHub/SCP_power_monitor/SCP_power_monitor.o/
+hwmon/hwmsen/hwmsen_helper.o/
+hwmon/sensor_dts/sensor_dts.o/
+hwmon/sensor_attributes/sensor_attr.o/
+hwmon/sensor_event/sensor_event.o/
+hwmon/sensor_performance/sensor_performance.o/
+hwmon/sensor_list/sensor_list.o/
+alsps/alsps.o/
+alsps/alsps_factory.o/
+alsps/aal_control.o/
+alsps/alspshub/alspshub.o/
+accelerometer/accel.o/
+accelerometer/accel_factory.o/
+accelerometer/accelhub/accelhub.o/
+gyroscope/gyroscope.o/
+gyroscope/gyro_factory.o/
+gyroscope/gyrohub/gyrohub.o/
+magnetometer/mag.o/
+magnetometer/mag_factory.o/
+magnetometer/maghub/maghub.o/
+step_counter/step_counter.o/
+step_counter/stepsignhub/stepsignhub.o/
+situation/situation.o/
+situation/stationary/stationary.o/
+situation/wake_gesture/wake_gesture.o/
+situation/glance_gesture/glance_gesture.o/
+situation/pickup_gesture/pickup_gesture.o/
+situation/device_orientation/device_orientation.o/
+situation/motion_detect/motion_detect.o/
+situation/tilt_detector/tiltdetecthub.o/
+situation/sar/sarhub.o/
+situation/sar/sar_factory.o/
+situation/sar_algo/saralgo.o/
+situation/sar_algo/saralgo_factory.o/
+situation/sar_algo_top/saralgo_top.o/
+sensorfusion/fusion.o/
+sensorfusion/uncali_acchub/uncali_acchub.o/
+sensorfusion/uncali_maghub/uncali_maghub.o/
+
+/0              0           0     0     644     215600    `
+/26             0           0     0     644     157200    `
+/50             0           0     0     644     171224    `
+/77             0           0     0     644     183112    `
+/110            0           0     0     644     326800    `
+/147            0           0     0     644     17616     `
+/196            0           0     0     644     206384    `
+/226            0           0     0     644     108504    `
+/257            0           0     0     644     128680    `
+/296            0           0     0     644     124024    `
+/331            0           0     0     644     944       `
+/378            0           0     0     644     135648    `
+/411            0           0     0     644     248400    `
+/426            0           0     0     644     162600    `
+/449            0           0     0     644     142968    `
+/470            0           0     0     644     244384    `
+/497            0           0     0     644     215216    `
+/520            0           0     0     644     157792    `
+/551            0           0     0     644     205752    `
+/586            0           0     0     644     222440    `
+/609            0           0     0     644     161960    `
+/635            0           0     0     644     214400    `
+/664            0           0     0     644     206992    `
+/684            0           0     0     644     148560    `
+/712            0           0     0     644     203664    `
+/742            0           0     0     644     240000    `
+/771            0           0     0     644     162712    `
+/811            0           0     0     644     218376    `
+/834            0           0     0     644     147304    `
+/869            0           0     0     644     147432    `
+/908            0           0     0     644     146640    `
+/951            0           0     0     644     146632    `
+/994            0           0     0     644     147800    `
+/1045           0           0     0     644     147592    `
+/1086           0           0     0     644     134120    `
+/1127           0           0     0     644     161128    `
+/1151           0           0     0     644     140560    `
+/1180           0           0     0     644     159672    `
+/1210           0           0     0     644     138096    `
+/1248           0           0     0     644     146448    `
+/1286           0           0     0     644     207712    `
+/1309           0           0     0     644     22368     `
+/1353           0           0     0     644     22368     `

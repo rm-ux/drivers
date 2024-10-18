@@ -1,0 +1,1 @@
+cmd_drivers/tee/teei/400/tee/built-in.a :=  rm -f drivers/tee/teei/400/tee/built-in.a; aarch64-linux-gnu-ar rcSTPD drivers/tee/teei/400/tee/built-in.a drivers/tee/teei/400/tee/tee_core.o drivers/tee/teei/400/tee/tee_shm.o drivers/tee/teei/400/tee/tee_shm_pool.o drivers/tee/teei/400/tee/tee_client_api.o drivers/tee/teei/400/tee/soter/built-in.a
